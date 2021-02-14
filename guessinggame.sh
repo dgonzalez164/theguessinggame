@@ -1,3 +1,5 @@
+#File: guessinggame.sh
+
 number_of_files=$(ls | wc -l)
 echo "Go ahead, and guess the number of files in the current directory:"
 
